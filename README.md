@@ -1,0 +1,1 @@
+# mgn-private-endpoint
